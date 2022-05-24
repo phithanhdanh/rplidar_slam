@@ -136,6 +136,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("/home/phithanhdanh/rplidar_ws/build/map_server/cmake_install.cmake")
   include("/home/phithanhdanh/rplidar_ws/build/rplidar_ros/cmake_install.cmake")
   include("/home/phithanhdanh/rplidar_ws/build/slam_gmapping/gmapping/cmake_install.cmake")
+  include("/home/phithanhdanh/rplidar_ws/build/hector_mapping/cmake_install.cmake")
 
 endif()
 

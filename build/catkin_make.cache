@@ -1,2 +1,2 @@
-map_server:openslam_gmapping:rplidar_ros:slam_gmapping/gmapping:slam_gmapping/slam_gmapping
+hector_mapping:map_server:openslam_gmapping:rplidar_ros:slam_gmapping/gmapping:slam_gmapping/slam_gmapping
 -DCATKIN_DEVEL_PREFIX=/home/phithanhdanh/rplidar_ws/devel -DCMAKE_INSTALL_PREFIX=/home/phithanhdanh/rplidar_ws/install -G Unix Makefiles

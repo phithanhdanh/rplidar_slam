@@ -1909,6 +1909,331 @@ gmapping_basic_localization_stage_groundtruth.pgm/fast:
 	$(MAKE) -f slam_gmapping/gmapping/CMakeFiles/gmapping_basic_localization_stage_groundtruth.pgm.dir/build.make slam_gmapping/gmapping/CMakeFiles/gmapping_basic_localization_stage_groundtruth.pgm.dir/build
 .PHONY : gmapping_basic_localization_stage_groundtruth.pgm/fast
 
+#=============================================================================
+# Target rules for targets named hector_mapping_generate_messages
+
+# Build rule for target.
+hector_mapping_generate_messages: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 hector_mapping_generate_messages
+.PHONY : hector_mapping_generate_messages
+
+# fast build rule for target.
+hector_mapping_generate_messages/fast:
+	$(MAKE) -f hector_mapping/CMakeFiles/hector_mapping_generate_messages.dir/build.make hector_mapping/CMakeFiles/hector_mapping_generate_messages.dir/build
+.PHONY : hector_mapping_generate_messages/fast
+
+#=============================================================================
+# Target rules for targets named _hector_mapping_generate_messages_check_deps_HectorDebugInfo
+
+# Build rule for target.
+_hector_mapping_generate_messages_check_deps_HectorDebugInfo: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 _hector_mapping_generate_messages_check_deps_HectorDebugInfo
+.PHONY : _hector_mapping_generate_messages_check_deps_HectorDebugInfo
+
+# fast build rule for target.
+_hector_mapping_generate_messages_check_deps_HectorDebugInfo/fast:
+	$(MAKE) -f hector_mapping/CMakeFiles/_hector_mapping_generate_messages_check_deps_HectorDebugInfo.dir/build.make hector_mapping/CMakeFiles/_hector_mapping_generate_messages_check_deps_HectorDebugInfo.dir/build
+.PHONY : _hector_mapping_generate_messages_check_deps_HectorDebugInfo/fast
+
+#=============================================================================
+# Target rules for targets named hector_mapping_gennodejs
+
+# Build rule for target.
+hector_mapping_gennodejs: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 hector_mapping_gennodejs
+.PHONY : hector_mapping_gennodejs
+
+# fast build rule for target.
+hector_mapping_gennodejs/fast:
+	$(MAKE) -f hector_mapping/CMakeFiles/hector_mapping_gennodejs.dir/build.make hector_mapping/CMakeFiles/hector_mapping_gennodejs.dir/build
+.PHONY : hector_mapping_gennodejs/fast
+
+#=============================================================================
+# Target rules for targets named std_srvs_generate_messages_nodejs
+
+# Build rule for target.
+std_srvs_generate_messages_nodejs: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 std_srvs_generate_messages_nodejs
+.PHONY : std_srvs_generate_messages_nodejs
+
+# fast build rule for target.
+std_srvs_generate_messages_nodejs/fast:
+	$(MAKE) -f hector_mapping/CMakeFiles/std_srvs_generate_messages_nodejs.dir/build.make hector_mapping/CMakeFiles/std_srvs_generate_messages_nodejs.dir/build
+.PHONY : std_srvs_generate_messages_nodejs/fast
+
+#=============================================================================
+# Target rules for targets named _hector_mapping_generate_messages_check_deps_HectorIterData
+
+# Build rule for target.
+_hector_mapping_generate_messages_check_deps_HectorIterData: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 _hector_mapping_generate_messages_check_deps_HectorIterData
+.PHONY : _hector_mapping_generate_messages_check_deps_HectorIterData
+
+# fast build rule for target.
+_hector_mapping_generate_messages_check_deps_HectorIterData/fast:
+	$(MAKE) -f hector_mapping/CMakeFiles/_hector_mapping_generate_messages_check_deps_HectorIterData.dir/build.make hector_mapping/CMakeFiles/_hector_mapping_generate_messages_check_deps_HectorIterData.dir/build
+.PHONY : _hector_mapping_generate_messages_check_deps_HectorIterData/fast
+
+#=============================================================================
+# Target rules for targets named std_srvs_generate_messages_lisp
+
+# Build rule for target.
+std_srvs_generate_messages_lisp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 std_srvs_generate_messages_lisp
+.PHONY : std_srvs_generate_messages_lisp
+
+# fast build rule for target.
+std_srvs_generate_messages_lisp/fast:
+	$(MAKE) -f hector_mapping/CMakeFiles/std_srvs_generate_messages_lisp.dir/build.make hector_mapping/CMakeFiles/std_srvs_generate_messages_lisp.dir/build
+.PHONY : std_srvs_generate_messages_lisp/fast
+
+#=============================================================================
+# Target rules for targets named std_srvs_generate_messages_eus
+
+# Build rule for target.
+std_srvs_generate_messages_eus: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 std_srvs_generate_messages_eus
+.PHONY : std_srvs_generate_messages_eus
+
+# fast build rule for target.
+std_srvs_generate_messages_eus/fast:
+	$(MAKE) -f hector_mapping/CMakeFiles/std_srvs_generate_messages_eus.dir/build.make hector_mapping/CMakeFiles/std_srvs_generate_messages_eus.dir/build
+.PHONY : std_srvs_generate_messages_eus/fast
+
+#=============================================================================
+# Target rules for targets named visualization_msgs_generate_messages_lisp
+
+# Build rule for target.
+visualization_msgs_generate_messages_lisp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 visualization_msgs_generate_messages_lisp
+.PHONY : visualization_msgs_generate_messages_lisp
+
+# fast build rule for target.
+visualization_msgs_generate_messages_lisp/fast:
+	$(MAKE) -f hector_mapping/CMakeFiles/visualization_msgs_generate_messages_lisp.dir/build.make hector_mapping/CMakeFiles/visualization_msgs_generate_messages_lisp.dir/build
+.PHONY : visualization_msgs_generate_messages_lisp/fast
+
+#=============================================================================
+# Target rules for targets named std_srvs_generate_messages_cpp
+
+# Build rule for target.
+std_srvs_generate_messages_cpp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 std_srvs_generate_messages_cpp
+.PHONY : std_srvs_generate_messages_cpp
+
+# fast build rule for target.
+std_srvs_generate_messages_cpp/fast:
+	$(MAKE) -f hector_mapping/CMakeFiles/std_srvs_generate_messages_cpp.dir/build.make hector_mapping/CMakeFiles/std_srvs_generate_messages_cpp.dir/build
+.PHONY : std_srvs_generate_messages_cpp/fast
+
+#=============================================================================
+# Target rules for targets named hector_mapping_gencpp
+
+# Build rule for target.
+hector_mapping_gencpp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 hector_mapping_gencpp
+.PHONY : hector_mapping_gencpp
+
+# fast build rule for target.
+hector_mapping_gencpp/fast:
+	$(MAKE) -f hector_mapping/CMakeFiles/hector_mapping_gencpp.dir/build.make hector_mapping/CMakeFiles/hector_mapping_gencpp.dir/build
+.PHONY : hector_mapping_gencpp/fast
+
+#=============================================================================
+# Target rules for targets named visualization_msgs_generate_messages_py
+
+# Build rule for target.
+visualization_msgs_generate_messages_py: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 visualization_msgs_generate_messages_py
+.PHONY : visualization_msgs_generate_messages_py
+
+# fast build rule for target.
+visualization_msgs_generate_messages_py/fast:
+	$(MAKE) -f hector_mapping/CMakeFiles/visualization_msgs_generate_messages_py.dir/build.make hector_mapping/CMakeFiles/visualization_msgs_generate_messages_py.dir/build
+.PHONY : visualization_msgs_generate_messages_py/fast
+
+#=============================================================================
+# Target rules for targets named hector_mapping_generate_messages_py
+
+# Build rule for target.
+hector_mapping_generate_messages_py: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 hector_mapping_generate_messages_py
+.PHONY : hector_mapping_generate_messages_py
+
+# fast build rule for target.
+hector_mapping_generate_messages_py/fast:
+	$(MAKE) -f hector_mapping/CMakeFiles/hector_mapping_generate_messages_py.dir/build.make hector_mapping/CMakeFiles/hector_mapping_generate_messages_py.dir/build
+.PHONY : hector_mapping_generate_messages_py/fast
+
+#=============================================================================
+# Target rules for targets named visualization_msgs_generate_messages_nodejs
+
+# Build rule for target.
+visualization_msgs_generate_messages_nodejs: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 visualization_msgs_generate_messages_nodejs
+.PHONY : visualization_msgs_generate_messages_nodejs
+
+# fast build rule for target.
+visualization_msgs_generate_messages_nodejs/fast:
+	$(MAKE) -f hector_mapping/CMakeFiles/visualization_msgs_generate_messages_nodejs.dir/build.make hector_mapping/CMakeFiles/visualization_msgs_generate_messages_nodejs.dir/build
+.PHONY : visualization_msgs_generate_messages_nodejs/fast
+
+#=============================================================================
+# Target rules for targets named std_srvs_generate_messages_py
+
+# Build rule for target.
+std_srvs_generate_messages_py: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 std_srvs_generate_messages_py
+.PHONY : std_srvs_generate_messages_py
+
+# fast build rule for target.
+std_srvs_generate_messages_py/fast:
+	$(MAKE) -f hector_mapping/CMakeFiles/std_srvs_generate_messages_py.dir/build.make hector_mapping/CMakeFiles/std_srvs_generate_messages_py.dir/build
+.PHONY : std_srvs_generate_messages_py/fast
+
+#=============================================================================
+# Target rules for targets named visualization_msgs_generate_messages_eus
+
+# Build rule for target.
+visualization_msgs_generate_messages_eus: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 visualization_msgs_generate_messages_eus
+.PHONY : visualization_msgs_generate_messages_eus
+
+# fast build rule for target.
+visualization_msgs_generate_messages_eus/fast:
+	$(MAKE) -f hector_mapping/CMakeFiles/visualization_msgs_generate_messages_eus.dir/build.make hector_mapping/CMakeFiles/visualization_msgs_generate_messages_eus.dir/build
+.PHONY : visualization_msgs_generate_messages_eus/fast
+
+#=============================================================================
+# Target rules for targets named hector_mapping_generate_messages_eus
+
+# Build rule for target.
+hector_mapping_generate_messages_eus: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 hector_mapping_generate_messages_eus
+.PHONY : hector_mapping_generate_messages_eus
+
+# fast build rule for target.
+hector_mapping_generate_messages_eus/fast:
+	$(MAKE) -f hector_mapping/CMakeFiles/hector_mapping_generate_messages_eus.dir/build.make hector_mapping/CMakeFiles/hector_mapping_generate_messages_eus.dir/build
+.PHONY : hector_mapping_generate_messages_eus/fast
+
+#=============================================================================
+# Target rules for targets named hector_mapping_genlisp
+
+# Build rule for target.
+hector_mapping_genlisp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 hector_mapping_genlisp
+.PHONY : hector_mapping_genlisp
+
+# fast build rule for target.
+hector_mapping_genlisp/fast:
+	$(MAKE) -f hector_mapping/CMakeFiles/hector_mapping_genlisp.dir/build.make hector_mapping/CMakeFiles/hector_mapping_genlisp.dir/build
+.PHONY : hector_mapping_genlisp/fast
+
+#=============================================================================
+# Target rules for targets named visualization_msgs_generate_messages_cpp
+
+# Build rule for target.
+visualization_msgs_generate_messages_cpp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 visualization_msgs_generate_messages_cpp
+.PHONY : visualization_msgs_generate_messages_cpp
+
+# fast build rule for target.
+visualization_msgs_generate_messages_cpp/fast:
+	$(MAKE) -f hector_mapping/CMakeFiles/visualization_msgs_generate_messages_cpp.dir/build.make hector_mapping/CMakeFiles/visualization_msgs_generate_messages_cpp.dir/build
+.PHONY : visualization_msgs_generate_messages_cpp/fast
+
+#=============================================================================
+# Target rules for targets named hector_mapping_geneus
+
+# Build rule for target.
+hector_mapping_geneus: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 hector_mapping_geneus
+.PHONY : hector_mapping_geneus
+
+# fast build rule for target.
+hector_mapping_geneus/fast:
+	$(MAKE) -f hector_mapping/CMakeFiles/hector_mapping_geneus.dir/build.make hector_mapping/CMakeFiles/hector_mapping_geneus.dir/build
+.PHONY : hector_mapping_geneus/fast
+
+#=============================================================================
+# Target rules for targets named _hector_mapping_generate_messages_check_deps_ResetMapping
+
+# Build rule for target.
+_hector_mapping_generate_messages_check_deps_ResetMapping: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 _hector_mapping_generate_messages_check_deps_ResetMapping
+.PHONY : _hector_mapping_generate_messages_check_deps_ResetMapping
+
+# fast build rule for target.
+_hector_mapping_generate_messages_check_deps_ResetMapping/fast:
+	$(MAKE) -f hector_mapping/CMakeFiles/_hector_mapping_generate_messages_check_deps_ResetMapping.dir/build.make hector_mapping/CMakeFiles/_hector_mapping_generate_messages_check_deps_ResetMapping.dir/build
+.PHONY : _hector_mapping_generate_messages_check_deps_ResetMapping/fast
+
+#=============================================================================
+# Target rules for targets named hector_mapping
+
+# Build rule for target.
+hector_mapping: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 hector_mapping
+.PHONY : hector_mapping
+
+# fast build rule for target.
+hector_mapping/fast:
+	$(MAKE) -f hector_mapping/CMakeFiles/hector_mapping.dir/build.make hector_mapping/CMakeFiles/hector_mapping.dir/build
+.PHONY : hector_mapping/fast
+
+#=============================================================================
+# Target rules for targets named hector_mapping_generate_messages_cpp
+
+# Build rule for target.
+hector_mapping_generate_messages_cpp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 hector_mapping_generate_messages_cpp
+.PHONY : hector_mapping_generate_messages_cpp
+
+# fast build rule for target.
+hector_mapping_generate_messages_cpp/fast:
+	$(MAKE) -f hector_mapping/CMakeFiles/hector_mapping_generate_messages_cpp.dir/build.make hector_mapping/CMakeFiles/hector_mapping_generate_messages_cpp.dir/build
+.PHONY : hector_mapping_generate_messages_cpp/fast
+
+#=============================================================================
+# Target rules for targets named hector_mapping_generate_messages_nodejs
+
+# Build rule for target.
+hector_mapping_generate_messages_nodejs: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 hector_mapping_generate_messages_nodejs
+.PHONY : hector_mapping_generate_messages_nodejs
+
+# fast build rule for target.
+hector_mapping_generate_messages_nodejs/fast:
+	$(MAKE) -f hector_mapping/CMakeFiles/hector_mapping_generate_messages_nodejs.dir/build.make hector_mapping/CMakeFiles/hector_mapping_generate_messages_nodejs.dir/build
+.PHONY : hector_mapping_generate_messages_nodejs/fast
+
+#=============================================================================
+# Target rules for targets named hector_mapping_generate_messages_lisp
+
+# Build rule for target.
+hector_mapping_generate_messages_lisp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 hector_mapping_generate_messages_lisp
+.PHONY : hector_mapping_generate_messages_lisp
+
+# fast build rule for target.
+hector_mapping_generate_messages_lisp/fast:
+	$(MAKE) -f hector_mapping/CMakeFiles/hector_mapping_generate_messages_lisp.dir/build.make hector_mapping/CMakeFiles/hector_mapping_generate_messages_lisp.dir/build
+.PHONY : hector_mapping_generate_messages_lisp/fast
+
+#=============================================================================
+# Target rules for targets named hector_mapping_genpy
+
+# Build rule for target.
+hector_mapping_genpy: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 hector_mapping_genpy
+.PHONY : hector_mapping_genpy
+
+# fast build rule for target.
+hector_mapping_genpy/fast:
+	$(MAKE) -f hector_mapping/CMakeFiles/hector_mapping_genpy.dir/build.make hector_mapping/CMakeFiles/hector_mapping_genpy.dir/build
+.PHONY : hector_mapping_genpy/fast
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -2056,6 +2381,31 @@ help:
 	@echo "... _run_tests_gmapping_rostest_test_basic_localization_upside_down.launch"
 	@echo "... actionlib_generate_messages_eus"
 	@echo "... gmapping_basic_localization_stage_groundtruth.pgm"
+	@echo "... hector_mapping_generate_messages"
+	@echo "... _hector_mapping_generate_messages_check_deps_HectorDebugInfo"
+	@echo "... hector_mapping_gennodejs"
+	@echo "... std_srvs_generate_messages_nodejs"
+	@echo "... _hector_mapping_generate_messages_check_deps_HectorIterData"
+	@echo "... std_srvs_generate_messages_lisp"
+	@echo "... std_srvs_generate_messages_eus"
+	@echo "... visualization_msgs_generate_messages_lisp"
+	@echo "... std_srvs_generate_messages_cpp"
+	@echo "... hector_mapping_gencpp"
+	@echo "... visualization_msgs_generate_messages_py"
+	@echo "... hector_mapping_generate_messages_py"
+	@echo "... visualization_msgs_generate_messages_nodejs"
+	@echo "... std_srvs_generate_messages_py"
+	@echo "... visualization_msgs_generate_messages_eus"
+	@echo "... hector_mapping_generate_messages_eus"
+	@echo "... hector_mapping_genlisp"
+	@echo "... visualization_msgs_generate_messages_cpp"
+	@echo "... hector_mapping_geneus"
+	@echo "... _hector_mapping_generate_messages_check_deps_ResetMapping"
+	@echo "... hector_mapping"
+	@echo "... hector_mapping_generate_messages_cpp"
+	@echo "... hector_mapping_generate_messages_nodejs"
+	@echo "... hector_mapping_generate_messages_lisp"
+	@echo "... hector_mapping_genpy"
 .PHONY : help
 
 
